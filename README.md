@@ -1,2 +1,1 @@
-# gwafotapa.github.io
-Workout Watch privacy policy
+[Workout Watch privacy policy](workout_watch/privacy_policy)
