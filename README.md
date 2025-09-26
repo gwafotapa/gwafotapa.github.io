@@ -1,1 +1,1 @@
-[Workout Watch privacy policy](/workout_watch/privacy_policy)
+[Workout Watch privacy policy](/workout-watch/privacy-policy)
