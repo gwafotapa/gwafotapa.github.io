@@ -1,6 +1,6 @@
 layout: page
 title: "Workout Watch Privacy Policy"
-permalink: /workout_watch/privacy_policy
+permalink: /workout_watch/privacy_policy/
 
 **Privacy Policy**
 
